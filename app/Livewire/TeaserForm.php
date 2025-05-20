@@ -30,8 +30,8 @@ class TeaserForm extends Component
 
         $this->validate();
 
-        $imagePath = $this->image->store('teasers', 'public');
-
+       $imagePath = $this->image->store('livewire/public/teasers', 'public');
+        
         Teaser::create([
             'user_id' => auth()->id(),
             'headline' => $this->headline,
