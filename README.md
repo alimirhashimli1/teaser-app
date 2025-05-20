@@ -85,6 +85,14 @@ php artisan key:generate
 
 ```
 
+###  Update .env for SQLite 
+
+```bash
+DB_CONNECTION=sqlite
+DB_DATABASE=database/database.sqlite
+
+```
+
 ###  Run database migrations
 
 ```bash
