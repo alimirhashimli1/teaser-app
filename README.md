@@ -68,7 +68,6 @@ composer install
 
 ```bash
 npm install
-npm run dev
 ```
 
 ###  Create the SQLite database file
