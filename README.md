@@ -53,7 +53,7 @@ This is a minimal teaser-posting application developed as part of a coding chall
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/teaser-app.git
+   git clone https://github.com/alimirhashimli1/teaser-app.git
    cd teaser-app
 
 ## Installation
