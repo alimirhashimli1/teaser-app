@@ -104,7 +104,18 @@ php artisan migrate
 php artisan storage:link
 ```
 
-###  Start the development server
+###  Run in development mode
+```bash
+npm run dev
+```
+### or
+
+###  Run in production mode
+```bash
+npm run build
+```
+
+###  Start the server
 ```bash
 php artisan serve
 ```
